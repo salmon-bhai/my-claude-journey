@@ -1,0 +1,54 @@
+# Day 2/60 — Improving Claude Outputs with Meta Prompting
+
+## What I Learned
+
+Today I learned about Claude's Meta Prompting approach.
+
+Before this, I was using simple and generic prompts for image generation. While the results were sometimes acceptable, they often lacked detail, consistency, and professional quality.
+
+To improve my results, I started using a Meta Prompt Extension that helps transform rough prompts into structured, professional prompts.
+
+## Example
+
+### Original Prompt
+
+Create an image about Prompt Engineering.
+
+### Improved Prompt
+
+A detailed prompt containing:
+
+* Clear role definition
+* Context and objectives
+* Visual style requirements
+* Composition guidelines
+* Lighting and realism instructions
+* Output specifications
+
+## Results
+
+After using Meta Prompting:
+
+* Better image quality
+* More consistent outputs
+* Improved creativity
+* Less prompt iteration
+
+## Key Takeaway
+
+The quality of AI outputs is heavily influenced by the quality of the prompt.
+
+Instead of repeatedly rewriting prompts manually, Meta Prompting can help refine ideas into more effective instructions.
+
+## Progress
+
+✅ Day 2 Completed
+
+Current Focus:
+
+* Prompt Engineering
+* Meta Prompting
+* Claude Workflows
+* AI Image Generation
+
+Challenge: 60 Days of Claude AI Learning
