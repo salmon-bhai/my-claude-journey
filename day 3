@@ -1,0 +1,70 @@
+# Day 3/60 — Role-Based Prompting in Claude
+
+## What I Learned
+
+Today I explored how Claude responds when a role is assigned versus when no role is assigned.
+
+The goal was to understand how context affects the quality and focus of AI-generated responses.
+
+## Experiment
+
+### Prompt Without a Role
+
+How can I improve customer retention?
+
+### Prompt With a Role
+
+You are a Senior Product Manager with 10 years of SaaS experience. How would you improve customer retention?
+
+## Observation
+
+The response without a role was more general and broad.
+
+The response with a role included:
+
+* More structured recommendations
+* Industry-specific insights
+* Clear prioritization
+* Practical implementation ideas
+
+## Key Learning
+
+Role assignment acts as context for Claude.
+
+It helps the model understand:
+
+* Who it should behave as
+* What expertise it should apply
+* Which perspective it should use when answering
+
+## Examples of Useful Roles
+
+* Product Manager
+* Founder
+* Software Engineer
+* HR Manager
+* Marketing Strategist
+* Career Coach
+* UX Designer
+
+## Takeaway
+
+Role-Based Prompting is one of the easiest ways to improve AI outputs.
+
+Instead of asking a question directly, define who Claude should be before asking the question.
+
+Formula:
+
+**Act as [ROLE] + [CONTEXT] + [TASK]**
+
+## Progress
+
+✅ Day 3 Completed
+
+Topics Covered:
+
+* Prompt Engineering
+* Role-Based Prompting
+* Context Engineering Fundamentals
+
+Challenge: 60 Days of Claude AI Learning
