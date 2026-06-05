@@ -1,0 +1,69 @@
+# Day 4/60 — Personalized Career Roadmap Using Claude
+
+## Objective
+
+Learn how Chain-of-Thought prompting can improve the quality of AI-generated outputs.
+
+## Process
+
+Instead of requesting a career roadmap directly, Claude first asked a series of questions to gather context about:
+
+* Current skills
+* Professional experience
+* Career goals
+* Challenges
+* Desired outcomes
+
+After collecting the information, Claude generated a personalized roadmap.
+
+## Output Highlights
+
+The roadmap included:
+
+* Profile analysis
+* Strength assessment
+* Opportunity analysis
+* Gap identification
+* 90-day action plan
+* Milestone tracking
+* Recommended tools and platforms
+
+## Key Learning
+
+A generic prompt produces generic advice.
+
+A context-rich conversation produces personalized guidance.
+
+The most valuable part of the exercise was not the final roadmap itself, but the questioning process Claude used before generating it.
+
+## Biggest Insight
+
+AI performs significantly better when it understands the user's situation before attempting to solve the problem.
+
+Instead of asking:
+
+"Create a career roadmap for me."
+
+A better approach is:
+
+"Ask me the questions you need to understand my goals and current situation before creating a roadmap."
+
+## Takeaway
+
+Quality Inputs → Better Context → Better Outputs
+
+This was my first practical experience using a Chain-of-Thought style workflow to generate a highly personalized career strategy.
+
+## Progress
+
+✅ Day 4 Completed
+
+Topics Learned:
+
+* Chain-of-Thought Prompting
+* Context Gathering
+* Personalized AI Workflows
+* Career Planning with Claude
+
+Challenge:
+60 Days of Claude AI Learning
