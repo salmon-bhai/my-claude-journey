@@ -1,0 +1,86 @@
+# Day 5/60 — Understanding Context Engineering
+
+## Objective
+
+Understand how context affects the quality of AI-generated outputs.
+
+## Experiment
+
+I used two versions of the same prompt.
+
+### Prompt A (Without Context)
+
+Create a 30-day learning roadmap.
+
+Include:
+
+* Weekly milestones
+* Daily tasks
+* Resources
+* Projects
+* Final outcome
+
+### Result
+
+Claude generated a roadmap that was useful but generic.
+
+The roadmap was not tailored to my situation, goals, or learning preferences.
+
+---
+
+### Prompt B (With Context)
+
+Create a 30-day learning roadmap.
+
+Context:
+
+* Current Situation
+* Current Skills
+* Goal
+* Available Time
+* Experience Level
+* Preferred Learning Style
+
+### Result
+
+Claude generated a personalized roadmap aligned with my goals, skill level, available time, and preferred learning approach.
+
+---
+
+## Key Observation
+
+Both prompts requested the same output.
+
+The only difference was context.
+
+Yet the quality, relevance, and personalization of the final roadmap improved significantly.
+
+## Biggest Insight
+
+Context is often more important than the prompt itself.
+
+A model can only personalize its output using the information it receives.
+
+## Takeaway
+
+Formula:
+
+Prompt + Context = Better Output
+
+Without Context = Generic Results
+
+With Context = Personalized Results
+
+## Progress
+
+✅ Day 5 Completed
+
+Topics Learned:
+
+* Context Engineering
+* Personalized Prompting
+* AI Output Optimization
+* Claude Workflows
+
+Challenge:
+60 Days of Claude AI Learning
