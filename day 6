@@ -1,0 +1,73 @@
+# Day 6/60 — ATS Resume Optimization with Claude
+
+## Objective
+
+Learn how structured prompts can improve professional document generation and optimization.
+
+## Task
+
+Upload an existing resume to Claude and use an ATS Resume Optimization prompt.
+
+The prompt instructed Claude to:
+
+* Act as an ATS Optimization Expert
+* Analyze ATS compatibility
+* Improve recruiter readability
+* Preserve factual accuracy
+* Generate an optimized one-page resume
+
+## Process
+
+1. Uploaded existing resume
+2. Applied ATS Optimization Prompt
+3. Reviewed ATS feedback
+4. Generated optimized version
+5. Compared original and optimized resumes
+
+## Key Learnings
+
+### 1. AI Performs Better with Clear Constraints
+
+The prompt included:
+
+* Role definition
+* Objective
+* Formatting requirements
+* Output structure
+* Rules and limitations
+
+This produced significantly better results than a simple "Improve my resume" request.
+
+### 2. ATS-Friendly Structure Matters
+
+Important elements included:
+
+* Clear headings
+* Single-column layout
+* Relevant keywords
+* Consistent formatting
+* Simple structure
+
+### 3. Prompt Design Influences Output Quality
+
+A highly structured prompt generated a more professional and predictable result.
+
+## Biggest Insight
+
+AI is most effective when the desired outcome is clearly defined.
+
+Role + Goal + Constraints + Format = Better Results
+
+## Progress
+
+✅ Day 6 Completed
+
+Topics Learned:
+
+* ATS Optimization
+* Structured Prompting
+* Professional Document Generation
+* Claude Workflows
+
+Challenge:
+60 Days of Claude AI Learning
