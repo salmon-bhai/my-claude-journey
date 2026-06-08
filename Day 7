@@ -1,0 +1,78 @@
+# Day 7/60 — Building a Personalized Claude Usage Strategy
+
+## Objective
+
+Learn how to use Claude more efficiently by selecting the right model and effort level for different tasks.
+
+## Task
+
+Use a Claude Usage Strategy prompt to analyze:
+
+* Current situation
+* Daily activities
+* Frequency of Claude usage
+* Desired outputs
+
+Based on the answers, Claude generated a personalized workflow recommendation.
+
+## What I Learned
+
+### Different Models Have Different Strengths
+
+#### Haiku
+
+Best for:
+
+* Quick questions
+* Simple tasks
+* Fast responses
+
+#### Sonnet
+
+Best for:
+
+* Daily work
+* Content creation
+* Research
+* Learning
+
+#### Opus
+
+Best for:
+
+* Complex analysis
+* Strategic planning
+* Deep reasoning
+* High-value projects
+
+### Effort Levels Matter
+
+Not every task requires High or Max effort.
+
+Choosing the correct effort level can improve efficiency and reduce unnecessary resource usage.
+
+## Biggest Insight
+
+Many users focus only on prompts.
+
+However, model selection and effort selection can significantly impact productivity.
+
+## Personal Takeaway
+
+The goal is not to always use the most powerful option.
+
+The goal is to use the most appropriate option for the task.
+
+## Progress
+
+✅ Day 7 Completed
+
+Topics Learned:
+
+* Claude Models
+* Workflow Optimization
+* AI Productivity
+* Resource Management
+
+Challenge:
+60 Days of Claude AI Learning
