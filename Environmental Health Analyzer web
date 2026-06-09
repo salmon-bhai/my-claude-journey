@@ -1,0 +1,75 @@
+# Day 8/60 — Building an Environmental Health Dashboard with Claude
+
+## Objective
+
+Learn how Claude can be used as an application builder instead of only a conversational assistant.
+
+## Task
+
+Use the provided Environmental Health Analyzer prompt and allow Claude to generate a complete dashboard application.
+
+## Process
+
+1. Open Claude
+2. Paste the Environmental Health Analyzer prompt
+3. Generate the application
+4. Test functionality
+5. Deploy and review the final output
+
+## Final Output
+
+Live Demo:
+
+https://ecopluseai.netlify.app/
+
+## Features
+
+* Interactive dashboard
+* Environmental data visualization
+* Filters and controls
+* Downloadable HTML application
+* User-friendly interface
+
+## Key Learnings
+
+### 1. Prompts Can Act as Specifications
+
+A well-structured prompt can provide enough information for AI to generate an entire application.
+
+### 2. AI Accelerates Prototyping
+
+Instead of spending hours creating a prototype manually, Claude can generate a working foundation within minutes.
+
+### 3. AI Is More Than A Chatbot
+
+Claude can assist with:
+
+* Planning
+* Coding
+* UI generation
+* Documentation
+* Prototyping
+
+## Biggest Insight
+
+The real value of AI is not just getting answers.
+
+It is reducing the gap between an idea and a working product.
+
+## Project Link
+
+https://ecopluseai.netlify.app/
+
+## Progress
+
+✅ Day 8 Completed
+
+Topics Learned:
+
+* AI Application Development
+* Rapid Prototyping
+* Prompt-to-App Workflows
+* Claude Project Building
+
+Challenge:
+60 Days of Claude AI Learning
