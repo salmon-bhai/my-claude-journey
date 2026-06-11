@@ -1,0 +1,76 @@
+# Day 10/60 — Building a Personal Portfolio Website with Claude
+
+## Objective
+
+Learn how AI can be used to create a complete portfolio website from a structured prompt.
+
+## Task
+
+Generate a portfolio website using Claude, customize it with personal information, test the output, and deploy it online.
+
+## Final Output
+
+Live Portfolio:
+
+https://projectnexus1.netlify.app/
+
+## Process
+
+1. Open Claude
+2. Use the provided Portfolio Website prompt
+3. Replace placeholders with personal details
+4. Generate website code
+5. Save the HTML file
+6. Test functionality
+7. Deploy online
+
+## What I Learned
+
+### AI Can Build Complete Web Experiences
+
+Claude was able to generate:
+
+* Portfolio structure
+* Project sections
+* Responsive layouts
+* Professional design elements
+* Personal branding components
+
+### Prompts Become Requirements
+
+The quality of the website depended heavily on the quality of the instructions provided.
+
+Clear requirements produced better results.
+
+### Personal Branding Matters
+
+A portfolio website helps:
+
+* Showcase projects
+* Demonstrate skills
+* Build credibility
+* Create an online presence
+
+## Biggest Insight
+
+AI dramatically reduces the time required to go from idea to working website.
+
+Instead of starting with a blank page, I started with a working foundation and improved from there.
+
+## Project Link
+
+https://projectnexus1.netlify.app/
+
+## Progress
+
+✅ Day 10 Completed
+
+Topics Learned:
+
+* AI Website Generation
+* Portfolio Development
+* Personal Branding
+* Prompt-to-Product Workflows
+
+Challenge:
+60 Days of Claude AI Learning
