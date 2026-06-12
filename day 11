@@ -1,0 +1,66 @@
+# Day 11/60 — ATS Resume Optimization for a Specific Job Description
+
+## Objective
+
+Learn how to optimize a resume for a specific job description instead of using a generic resume for every application.
+
+## Task
+
+1. Upload resume
+2. Select a target Job Description (JD)
+3. Run ATS analysis using Claude
+4. Review ATS match score
+5. Identify keyword and skill gaps
+6. Generate an optimized resume
+
+## What I Learned
+
+### ATS Systems Compare Resumes to Job Descriptions
+
+Many recruiters use ATS software before manually reviewing applications.
+
+The ATS evaluates:
+
+* Keywords
+* Skills
+* Experience alignment
+* Job relevance
+
+### Resume Customization Matters
+
+A single resume cannot perfectly match every role.
+
+Customizing the resume for a target position improves relevance and ATS performance.
+
+### AI Can Accelerate Optimization
+
+Claude helped:
+
+* Identify missing keywords
+* Highlight skill gaps
+* Improve role alignment
+* Generate a stronger ATS-friendly version
+
+## Biggest Insight
+
+A good resume gets noticed.
+
+A resume aligned with the job description gets shortlisted.
+
+## Key Takeaway
+
+Resume + Job Description + ATS Optimization = Better Application Strategy
+
+## Progress
+
+✅ Day 11 Completed
+
+Topics Learned:
+
+* ATS Systems
+* Resume Optimization
+* Job Description Analysis
+* Career AI Workflows
+
+Challenge:
+60 Days of Claude AI Learning
