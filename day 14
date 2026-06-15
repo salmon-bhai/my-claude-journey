@@ -1,0 +1,73 @@
+# Day 14/60 — Job Red Flag Analysis with Claude
+
+## Objective
+
+Learn how AI can be used to evaluate job opportunities before investing time in applications and interviews.
+
+## Task
+
+1. Select a Job Description (JD)
+2. Gather company information
+3. Use the Job Red Flag Detector prompt
+4. Generate a risk analysis report
+5. Review risk score and recommendations
+6. Analyze interview preparation insights
+
+## What I Learned
+
+### A Job Description Contains More Information Than It Appears
+
+Beyond responsibilities and requirements, a JD can reveal:
+
+* Company expectations
+* Hiring quality
+* Role clarity
+* Growth opportunities
+* Potential risks
+
+### AI Can Identify Hidden Signals
+
+The analysis highlighted:
+
+#### Positive Signals
+
+* Clear responsibilities
+* Realistic expectations
+* Defined growth path
+* Relevant skill requirements
+
+#### Potential Red Flags
+
+* Unrealistic requirements
+* Vague role definitions
+* Excessive responsibilities
+* Missing company information
+
+### Better Decisions Save Time
+
+Instead of applying blindly, AI can help evaluate whether a role is worth pursuing.
+
+## Biggest Insight
+
+Job searching is not only about finding opportunities.
+
+It's also about filtering out the wrong ones.
+
+## Key Takeaway
+
+Opportunity Analysis + Risk Assessment = Smarter Career Decisions
+
+## Progress
+
+✅ Day 14 Completed
+
+Topics Learned:
+
+* Job Evaluation
+* Risk Analysis
+* Opportunity Assessment
+* AI Career Workflows
+* Interview Preparation
+
+Challenge:
+60 Days of Claude AI Learning
