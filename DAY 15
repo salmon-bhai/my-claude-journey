@@ -1,0 +1,59 @@
+# Day 16/60 — Building Custom Claude Skills
+
+## Objective
+
+Learn how to create reusable AI capabilities using Claude Custom Skills.
+
+## Task
+
+1. Open Claude Skills
+2. Create a new custom skill
+3. Configure instructions and behavior
+4. Test the skill on real-world examples
+5. Review generated outputs
+6. Compare results with normal prompting
+
+## What I Learned
+
+### Skills Are Reusable Prompts
+
+Instead of copying and pasting the same instructions repeatedly, a custom skill stores expertise that can be reused whenever needed.
+
+### Consistency Improves
+
+The skill follows the same structure and methodology every time, producing more reliable outputs.
+
+### AI Becomes More Specialized
+
+By defining clear instructions, Claude can behave like a dedicated expert for a specific task.
+
+### Workflow Efficiency Increases
+
+A single skill can replace long prompts and save significant time during repeated tasks.
+
+## Biggest Insight
+
+Prompts solve individual problems.
+
+Skills create repeatable systems.
+
+## Key Takeaway
+
+The future of AI productivity is not just better prompting.
+
+It is building reusable workflows and reusable expertise.
+
+## Topics Learned
+
+- Claude Skills
+- Workflow Automation
+- Reusable AI Systems
+- Prompt Engineering
+- AI Productivity
+
+## Progress
+
+✅ Day 16 Completed
+
+Challenge:
+60 Days of Claude AI Learning
