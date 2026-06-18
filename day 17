@@ -1,0 +1,56 @@
+GitHub (day17.md)
+Day 17/60 — Building an AI-Powered Analytics Dashboard
+Objective
+
+Learn how AI can transform raw CSV data into a complete analytics dashboard.
+
+What I Built
+
+M5 Fuel Analytics Dashboard
+
+Live Demo:
+https://m5fuelanalytics.netlify.app
+
+Features
+KPI Overview Cards
+Fuel Cost Comparisons
+Maintenance Analysis
+Break-Even Calculations
+Interactive Charts
+Responsive Dashboard UI
+What I Learned
+AI Works Better with Structured Data
+
+Providing a CSV dataset allowed Claude to perform deeper analysis than a normal conversation.
+
+Dashboards Tell Stories
+
+Charts and KPIs are valuable because they turn raw numbers into understandable insights.
+
+AI Can Act as a Data Analyst
+
+Instead of only generating text, AI can:
+
+Analyze datasets
+Discover trends
+Generate reports
+Build dashboards
+Support decision-making
+Biggest Insight
+
+The value isn't in the data.
+
+The value is in understanding what the data is trying to tell you.
+
+Skills Learned
+CSV Analysis
+Data Visualization
+KPI Design
+Dashboard Development
+AI-Powered Analytics
+Progress
+
+✅ Day 17 Completed
+
+Challenge:
+60 Days of Claude AI Learning 🚀
