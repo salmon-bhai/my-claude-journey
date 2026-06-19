@@ -1,0 +1,57 @@
+# Day 18/60 — Build a Brain Dump Action Planner Skill
+
+## Objective
+
+Learn how to create a reusable Claude Skill that transforms unstructured notes into organized action plans.
+
+## What I Built
+
+A custom Claude Skill called:
+
+Brain Dump Action Planner
+
+The skill converts messy notes, meeting discussions, brainstorming sessions, and project ideas into structured outputs.
+
+## Features
+
+- Summary Generation
+- Action Item Extraction
+- Risk Identification
+- Blocker Detection
+- Open Questions Tracking
+- Structured Planning
+
+## What I Learned
+
+### Skills > Repeated Prompts
+
+Instead of rewriting the same prompt every time, a custom skill allows the workflow to be saved and reused.
+
+### AI Handles Unstructured Information Well
+
+Meeting notes, voice memo transcripts, and brainstorming documents can be transformed into actionable plans.
+
+### Workflows Create Real Productivity Gains
+
+The biggest value comes from creating repeatable systems that automate routine thinking tasks.
+
+## Biggest Insight
+
+Prompts solve a problem once.
+
+Skills solve the same problem repeatedly.
+
+## Skills Learned
+
+- Claude Custom Skills
+- Workflow Design
+- Knowledge Organization
+- Action Planning
+- Productivity Automation
+
+## Progress
+
+✅ Day 18 Completed
+
+Challenge:
+60 Days of Claude AI Learning
