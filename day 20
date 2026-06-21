@@ -1,0 +1,67 @@
+# Day 20/60 — AI Face Puzzle Game
+
+## Objective
+
+Build an interactive puzzle game using AI-generated code and browser technologies.
+
+## Project Overview
+
+Created a web-based puzzle game that converts a user's photo into a playable puzzle.
+
+Users can capture an image through their webcam and solve the puzzle by rearranging shuffled pieces.
+
+## Features
+
+- Webcam Photo Capture
+- Dynamic Puzzle Generation
+- Multiple Difficulty Levels
+  - 3x3
+  - 4x4
+  - 5x5
+- Drag-and-Drop Controls
+- Move Counter
+- Completion Timer
+- Responsive Gameplay
+
+## What I Learned
+
+### AI Accelerates Prototyping
+
+Applications that would normally take hours can be generated and refined significantly faster.
+
+### Browser APIs Are Powerful
+
+Modern web applications can access device hardware such as cameras directly from the browser.
+
+### Games Are Systems
+
+A puzzle game combines UI design, state management, user interaction, and logic into one cohesive system.
+
+### AI Extends Beyond Productivity
+
+AI can assist with building products for entertainment, education, and engagement.
+
+## Key Insight
+
+AI is becoming a creative development partner.
+
+The same workflow used for business applications can also be applied to interactive consumer products.
+
+## Skills Practiced
+
+- Prompt Engineering
+- Application Design
+- Browser APIs
+- Game Logic
+- User Experience Design
+- Rapid Prototyping
+
+## Progress
+
+✅ Day 20 Completed
+
+Challenge:
+60 Days of Claude AI Learning
+
+  💡 Try the game yourself and see how quickly you can solve your own face puzzle:
+https://facepuzzleai.netlify.app/
