@@ -1,0 +1,71 @@
+# Day 52 — System Design
+
+## Overview
+
+Day 52 focused on converting the product planning phase into a comprehensive technical blueprint for the capstone project.
+
+The objective was to design a scalable architecture, define the database schema, document API specifications, create UI wireframes, map user flows, and organize the project structure before implementation begins.
+
+---
+
+## Deliverables
+
+- System Architecture
+- Database Schema
+- API Documentation
+- UI Wireframes
+- User Flow Diagram
+- Project Structure
+- Updated Implementation Blueprint
+
+---
+
+## Activities Completed
+
+- Designed application architecture
+- Defined system modules
+- Planned database schema and relationships
+- Documented REST API endpoints
+- Created user flow diagrams
+- Designed low-fidelity wireframes
+- Organized project folder structure
+- Verified implementation readiness
+
+---
+
+## Tech Stack Planning
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- REST APIs
+- Database Design
+- Git & GitHub
+- Claude AI
+
+---
+
+## Key Learnings
+
+- Importance of scalable software architecture
+- API-first system design
+- Database modeling best practices
+- User flow and wireframing before implementation
+- Creating maintainable project structures
+
+---
+
+## Challenges
+
+- Balancing scalability with simplicity
+- Designing reusable application modules
+- Maintaining consistency across documentation
+- Preparing an implementation-ready architecture
+
+---
+
+## Outcome
+
+Successfully completed the technical design phase by preparing the system architecture, database schema, API documentation, user flows, UI wireframes, and project structure, establishing a solid foundation for the development phase of the capstone project.
+
+✅ Day 52 Complete
